@@ -1,0 +1,25 @@
+{
+  "name": "dsa-practice",
+  "version": "1.0.0",
+  "description": "To practice Data Structures and Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjami/dsa-practice.git"
+  },
+  "keywords": [
+    "DSA"
+  ],
+  "author": "Kishor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjami/dsa-practice/issues"
+  },
+  "homepage": "https://github.com/kjami/dsa-practice#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
